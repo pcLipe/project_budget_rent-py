@@ -18,6 +18,7 @@ To automate and standardize the creation of monthly rental budgets, reducing man
 
 ## Technologies Used
 
-- **Language**: Python 3
-- **Paradigm**: Object-Oriented Programming (inheritance and polymorphism)
-- **Libraries**: datetime (native), os (native)
+- **Language**: Python 3;
+- Draw.io: Visual tool used to build a flowchart of the application, serving as a plan for what will be coded;
+- **Paradigm**: Object-Oriented Programming (inheritance and polymorphism);
+- **Libraries**: datetime (native), os (native.
