@@ -21,5 +21,3 @@ To automate and standardize the creation of monthly rental budgets, reducing man
 - **Language**: Python 3
 - **Paradigm**: Object-Oriented Programming (inheritance and polymorphism)
 - **Libraries**: datetime (native), os (native)
-
-Translated with DeepL.com (free version)
